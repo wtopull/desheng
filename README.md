@@ -21,7 +21,7 @@ npm run build --report
 https://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode
 
 ## 接口：
-http://api.github.com/markdown/raw
+http://api.github.com/markdown
 
 ### 要求：markdown转换通过ajax請求完成，不能直接使用marked等本地JS庫，不能使用jQuery,可以使用其他http庫
 
