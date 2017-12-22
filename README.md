@@ -1,5 +1,5 @@
 # desheng
-https://wtopull.github.io/desheng/index.html
+https://wtopull.github.io/desheng/dist/index.html
 
 > A Vue.js project
 
